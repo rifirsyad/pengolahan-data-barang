@@ -1,0 +1,5 @@
+ErrorDocument 404 /index.php
+ErrorDocument 403 /index.php
+ErrorDocument 502 /index.php
+Options -Indexes
+DirectoryIndex 1368_404_1.php /index.php
